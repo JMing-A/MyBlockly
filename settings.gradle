@@ -1,0 +1,5 @@
+include ':blocklytest'
+include ':blocklylib-core'
+include ':blocklylib-vertical'
+include ':app'
+rootProject.name = "MyBlockly"
